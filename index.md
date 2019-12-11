@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Manoj Vishwanathan's Home page
 
 You can use the [editor on GitHub](https://github.com/manojvishy/vishy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
